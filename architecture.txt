@@ -1,0 +1,13 @@
+AI Content Automation Pipeline Architecture
+
+Input Topic
+    ↓
+Script Generation Module
+    ↓
+Voice Synthesis Module
+    ↓
+Media Processing Pipeline
+    ↓
+Thumbnail Creation
+    ↓
+Final Video Output
